@@ -2,8 +2,8 @@
 <h1 align="center"> Hello ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 </div>
 Ei, developers  <br />
-Estudante de  Analise de Sistemas e Desenvolvimento <br />
-Atualmente resido em Bom Jardim de Minas - MG. <br />
+Estudante de  Análise de Sistemas e Desenvolvimento. <br />
+ 3° Periodo.<br />
 Aberta a novos desafios, buscando sempre aprimorar meus conhecimentos.!! <br />
  <br />
  <br />
