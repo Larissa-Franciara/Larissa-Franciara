@@ -1,10 +1,10 @@
 
 <h1 align="center"> Hello ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 </div>
-Ei, developers  <br />
-Estudante de  Análise de Sistemas e Desenvolvimento. <br />
+<strong>Ei, developers</strong> <br />
+<em>Estudante de  Análise de Sistemas e Desenvolvimento. <br />
  3° Periodo.<br />
-Aberta a novos desafios, buscando sempre aprimorar meus conhecimentos.!! <br />
+Aberta a novos desafios, buscando sempre aprimorar meus conhecimentos.!!</em> <br />
  <br />
  <br />
  
