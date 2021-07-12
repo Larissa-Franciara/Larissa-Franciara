@@ -4,7 +4,7 @@
 <strong>Ei, developers</strong> <br />
 <em>Estudante de  Análise de Sistemas e Desenvolvimento. <br />
  3° Periodo.<br /> Densenvolvedora de Front-end<br />
-Estágiaria de Analista de Sistemas - Fadepe
+Estágiaria Analista de  Sistemas Ti  - Fadepe
 </em> <br />
  <br />
  <br />
