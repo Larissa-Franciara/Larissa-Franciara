@@ -3,9 +3,9 @@
 </div>
 <strong>Ei, developers</strong> <br />
 <em>Estudante de  Análise de Sistemas e Desenvolvimento. <br />
- 3° Periodo.<br />
-Estágia de Ánalise de Sistemas Ti - Fadepe
- Densenvolvedora de Front-end</em> <br />
+ 3° Periodo.<br /> Densenvolvedora de Front-end<br />
+Estágiaria de Analista de Sistemas - Fadepe
+</em> <br />
  <br />
  <br />
  
