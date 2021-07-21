@@ -4,8 +4,7 @@
 <strong>Ei, developers</strong> <br />
 <em>- Estudante de  Análise de Sistemas e Desenvolvimento. <br/>
  - 3° Periodo.<br /> 
-- Futura Dev Full Stack 	:airplane:
-
+- Futura Dev Full Stack 	:rocket:
 </em> <br />
  <br />
  <br />
