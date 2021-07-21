@@ -2,8 +2,9 @@
 <h1 align="center"> Hello ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 </div>
 <strong>Ei, developers</strong> <br />
-<em>Estudante de  Análise de Sistemas e Desenvolvimento. <br />
- 3° Periodo.<br /> Densenvolvedora de Front-end<br />
+<em>- Estudante de  Análise de Sistemas e Desenvolvimento. <br/>
+ - 3° Periodo.<br /> 
+- Futura Dev Full Stack 	:airplane:
 
 </em> <br />
  <br />
