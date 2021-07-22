@@ -21,6 +21,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Larissa-Franciara)](https://github.com/Larissa-Franciara)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/larissa-franciara-27431020b)](https://br.linkedin.com/in/larissa-franciara-27431020b )    
+[![Github Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/larissafranciara/)](https://www.instagram.com/larissafranciara/)
 
 - Thanks for visiting.
 
