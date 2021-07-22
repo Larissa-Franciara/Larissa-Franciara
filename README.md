@@ -19,11 +19,8 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Larissa-Franciara)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/larissa-franciara-27431020b)]( LINK_LINKEDIN)
-
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Larissa-Franciara)](https://github.com/Larissa-Franciara)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/larissa-franciara-27431020b)](https://br.linkedin.com/in/larissa-franciara-27431020b )    
 
 - Thanks for visiting.
 
