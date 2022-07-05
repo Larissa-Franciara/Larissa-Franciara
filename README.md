@@ -49,7 +49,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Larissa-Franciara GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa-Franciara&theme=radical&show_icons=true)<img align="right" alt="Larissa-Franciara Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Franciara&layout=compact&theme=radical">
+![Larissa-Franciara GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa-Franciara&theme=radical&show_icons=true)<img  alt="Larissa-Franciara Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Franciara&layout=compact&theme=radical">
 
  
 
